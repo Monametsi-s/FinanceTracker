@@ -1,0 +1,9 @@
+**Notes and Challenges:**
+
+* Documentation of specific issues encountered, solutions found, or interesting learnings here. 
+"I had some trouble understanding the Next.js Server Actions initially, but after reviewing the 
+documentation and experimenting, I got it working."
+
+Deviations I made make from the tutorial and my reasoning.
+
+Notes any specific areas
